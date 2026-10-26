@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (ELECTRO_TOP_UP)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "ELECTRO_TOP_UP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
